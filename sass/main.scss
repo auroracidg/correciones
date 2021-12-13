@@ -1,0 +1,10 @@
+$main-color: #5B77A8;   
+$bg-green: #15d024; 
+$dark-mode: false;
+
+@import url("https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap");
+@import "components/base.scss";
+@import "components/buttons.scss";
+@import "components/jumbotron.scss";
+@import "components/blog.scss";
+
